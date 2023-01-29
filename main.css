@@ -18,6 +18,8 @@
 }
 
 body{
+	opacity: 0;
+	transition: opacity 3s;
 	background-color:  rgb(163, 149, 149);
 }
 
